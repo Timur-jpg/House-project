@@ -1,3 +1,4 @@
+Ant likes apples
 Project 'house'
 Authors: Michael Kölling and David J. Barnes
 
