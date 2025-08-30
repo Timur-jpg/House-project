@@ -21,4 +21,8 @@ modifying source code.
 
 Answers:
 
-How do you think the Picture class draws the picture?
+Question 14: 
+
+By following my image that I did on the figures project, it just recreates it.
+
+
